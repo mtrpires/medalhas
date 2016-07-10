@@ -1,0 +1,2 @@
+# medalhas
+Raspador de medalhas
